@@ -1,7 +1,6 @@
 
 
 ## Profile
-----------------
 📞 **Email** | codefuling@gmail.com
 ✉ **Phone** | 010-4709-9813
 
