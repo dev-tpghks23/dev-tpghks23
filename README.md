@@ -1,5 +1,8 @@
 
-<!-- 참조: https://soooom.tistory.com/436 -->
+<!-- 
+  참조: https://soooom.tistory.com/436 
+  https://github.com/yoshi389111/github-profile-3d-contrib#step-4-add-image-to-readmemd
+-->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Profile
